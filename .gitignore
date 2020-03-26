@@ -1,0 +1,7 @@
+venv/
+migrations/
+.flaskenv
+*.pyc
+.vscode/
+logs/
+*.db
